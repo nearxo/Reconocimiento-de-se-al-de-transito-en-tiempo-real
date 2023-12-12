@@ -4,7 +4,7 @@ import tensorflow as tf
 from tensorflow.keras.models import load_model
 
 # Cargar el modelo
-model = load_model('red3.h5')  # Nombre del modelo
+model = load_model('red4.h5')  # Nombre del modelo
 
 
 # Crear un objeto para acceder a la cámara 
